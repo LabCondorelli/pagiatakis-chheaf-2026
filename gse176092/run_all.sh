@@ -11,7 +11,7 @@
 ## up to a day when the Tangram map is refitted (CHH_TANGRAM_MAP=none). The three figure steps
 ## need about 50 to 100 GB.
 ##
-## Usage: bash run_gse176092.sh [--skip-download]
+## Usage: bash run_all.sh [--skip-download]
 ## Output: $CHH_OUT
 
 set -eo pipefail

@@ -1,0 +1,41 @@
+lincRNA_name	lincRNA_ensembl	lincRNA_1d	lincRNA_2d	lincRNA_4d	lincRNA_7d	direction	left_PC_name	left_TSS_distance_kb	left_PC_status	left_PC_results_1d/2d/4d/7d	right_PC_name	right_TSS_distance_kb	right_PC_status	right_PC_results_1d/2d/4d/7d	flanking_PC_modulated	cis_candidate	outcome
+A730036I17Rik	ENSMUSG00000056738	0	0	1	0	up-regulated	Slc20a1	-20.2	tested, not modulated	0/0/0/0	Ckap2l	78.2	modulated	0/0/1/1	yes	YES	up-regulated and at least one flanking coding gene modulated
+Gm12092	ENSMUSG00000084850	0	0	0	1	up-regulated	Clhc1	-97.6	not expressed		Rtn4	47.4	modulated	0/0/1/1	yes	YES	up-regulated and at least one flanking coding gene modulated
+Gm13481	ENSMUSG00000086353	0	0	1	1	up-regulated	Zeb2	-3339.9	modulated	0/0/0/1	Acvr2a	356.9	tested, not modulated	0/0/0/0	yes	YES	up-regulated and at least one flanking coding gene modulated
+Gm17501	ENSMUSG00000097183	0	0	0	1	up-regulated	Ccn1	-0.3	tested, not modulated	0/0/0/0	Ddah1	108.4	modulated	0/0/0/1	yes	YES	up-regulated and at least one flanking coding gene modulated
+Gm30085	ENSMUSG00000109770	0	0	0	1	up-regulated	Pdzrn4	-604.9	modulated	0/0/-1/0	Gxylt1	273.4	tested, not modulated	0/0/0/0	yes	YES	up-regulated and at least one flanking coding gene modulated
+Gm42047	ENSMUSG00000110631	0	0	0	1	up-regulated	Klhdc4	-3.7	tested, not modulated	0/0/0/0	Slc7a5	74.4	modulated	0/0/0/1	yes	YES	up-regulated and at least one flanking coding gene modulated
+Gm5086	ENSMUSG00000110235	0	0	0	1	up-regulated	Enc1	-318.9	modulated	0/0/0/1	Rps18-ps6	200.7	not expressed		yes	YES	up-regulated and at least one flanking coding gene modulated
+AI504432	ENSMUSG00000056145	0	0	1	0	up-regulated	Kcna3	-3.3	not expressed		Kcna2	61.6	tested, not modulated	0/0/0/0	no	no	up-regulated, but neither flanking coding gene modulated
+C030017B01Rik	ENSMUSG00000118202	0	0	0	1	up-regulated	Kctd16	-282.8	tested, not modulated	0/0/0/0	Prelid2	1411.5	tested, not modulated	0/0/0/0	no	no	up-regulated, but neither flanking coding gene modulated
+Gm30794	ENSMUSG00000117545	0	0	0	1	up-regulated	Calm2	-13.4	tested, not modulated	0/0/0/0	Epcam	175.6	not expressed		no	no	up-regulated, but neither flanking coding gene modulated
+Gm33609	ENSMUSG00000104736	0	0	0	1	up-regulated	Paqr3	-31.4	tested, not modulated	0/0/0/0	Naa11	249.4	not expressed		no	no	up-regulated, but neither flanking coding gene modulated
+Gm49808	ENSMUSG00000117110	0	0	1	1	up-regulated	Pabpc6	-194.7	not expressed		Qk	455.4	tested, not modulated	0/0/0/0	no	no	up-regulated, but neither flanking coding gene modulated
+Lockd	ENSMUSG00000098318	0	0	0	1	up-regulated	Cdkn1b	-8.7	tested, not modulated	0/0/0/0	Apold1	52.6	tested, not modulated	0/0/0/0	no	no	up-regulated, but neither flanking coding gene modulated
+Meg3	ENSMUSG00000021268	0	0	0	1	up-regulated	Dlk1	-88.2	not expressed		Rtl1	59.3	not expressed		no	no	up-regulated, but neither flanking coding gene modulated
+Snhg18	ENSMUSG00000096956	0	0	0	1	up-regulated	Tas2r119	-67.4	not expressed		Sema5a	0.1	tested, not modulated	0/0/0/0	no	no	up-regulated, but neither flanking coding gene modulated
+2310015K22Rik	ENSMUSG00000101257	0	0	0	-1	down-regulated	Fam124b	-6.6	tested, not modulated	0/0/0/0	Cul3	115.4	tested, not modulated	0/0/0/0	no	no	not up-regulated
+2310020H05Rik	ENSMUSG00000100410	0	0	0	-1	down-regulated	H2bl1	-103.4	not expressed		Zfp366	96.9	tested, not modulated	0/0/0/0	no	no	not up-regulated
+2310040G24Rik	ENSMUSG00000101655	0	0	-1	0	down-regulated	C87436	-49.9	tested, not modulated	0/0/0/0	Pcbp1	38.1	tested, not modulated	0/0/0/0	no	no	not up-regulated
+4632404H12Rik	ENSMUSG00000042579	0	0	0	-1	down-regulated	Chrnb2	-8.6	tested, not modulated	0/0/0/0	Ube2q1	0.4	tested, not modulated	0/0/0/0	no	no	not up-regulated
+4632428C04Rik	ENSMUSG00000097184	0	0	-1	0	down-regulated	Opa1	-429.3	tested, not modulated	0/0/0/0	Hes1	55.7	tested, not modulated	0/0/0/0	no	no	not up-regulated
+A730020M07Rik	ENSMUSG00000044522	0	0	0	-1	down-regulated	Slc44a3	-111.1	not expressed		4930432M17Rik	27.3	not expressed		no	no	not up-regulated
+AU023070	ENSMUSG00000093771	0	0	0	-1	down-regulated	Commd8	-328.9	tested, not modulated	0/0/0/0	Nfxl1	62.6	modulated	0/0/0/1	yes	no	not up-regulated
+Gm10635	ENSMUSG00000111765	0	0	0	-1	down-regulated	Cd109	-903.8	modulated	0/0/1/1	Col12a1	199.5	modulated	0/0/1/1	yes	no	not up-regulated
+Gm24474	ENSMUSG00000114005	0	0	0	-1	down-regulated	Tmx1	-197.1	tested, not modulated	0/0/0/0	Frmd6	175.3	tested, not modulated	0/0/0/0	no	no	not up-regulated
+Gm28651	ENSMUSG00000101086	0	0	0	-1	down-regulated	3425401B19Rik	-0.4	tested, not modulated	0/0/0/0	Tmem273	100.3	tested, not modulated	0/0/0/0	no	no	not up-regulated
+Gm31013	ENSMUSG00000111867	0	0	0	-1	down-regulated	Snx19	-354.4	tested, not modulated	0/0/0/0	Adamts15	141.0	tested, not modulated	0/0/0/0	no	no	not up-regulated
+Gm31600	ENSMUSG00000114800	0	0	0	-1	down-regulated	Ly86	-416.5	modulated	0/0/0/1	Rreb1	16.7	tested, not modulated	0/0/0/0	yes	no	not up-regulated
+Gm34934	ENSMUSG00000115100	0	0	-1	0	down-regulated	Cgrrf1	-50.6	tested, not modulated	0/0/0/0	Samd4	0.1	tested, not modulated	0/0/0/0	no	no	not up-regulated
+Gm40604	ENSMUSG00000112800	0	0	0	-1	down-regulated	Nmbr	-1054.4	not expressed		Cited2	1963.2	tested, not modulated	0/0/0/0	no	no	not up-regulated
+Gm40652	ENSMUSG00000112345	0	0	-1	0	down-regulated	Gja1	-739.9	tested, not modulated	0/0/0/0	Hsf2	369.2	tested, not modulated	0/0/0/0	no	no	not up-regulated
+Gm40841	ENSMUSG00000113216	0	0	0	-1	down-regulated	Rps18-ps5	-162.5	not expressed		Sox4	533.6	tested, not modulated	0/0/0/0	no	no	not up-regulated
+Gm41414	ENSMUSG00000116029	0	0	-1	0	down-regulated	Eef2kmt	-50.8	tested, not modulated	0/0/0/0	Rbfox1	578.6	modulated	0/0/-1/-1	yes	no	not up-regulated
+Gm43672	ENSMUSG00000106019	0	0	0	-1	down-regulated	Agtr1b	-1709.0	not expressed		Tbl1xr1	0.5	tested, not modulated	0/0/0/0	no	no	not up-regulated
+Gm4544	ENSMUSG00000116056	0	0	-1	-1	down-regulated	Atf7	-31.6	tested, not modulated	0/0/0/0	Atp5g2	15.2	tested, not modulated	0/0/0/0	no	no	not up-regulated
+Gm47850	ENSMUSG00000114286	0	0	0	-1	down-regulated	Slc38a9	-104.1	tested, not modulated	0/0/0/0	Plpp1	35.9	tested, not modulated	0/0/0/0	no	no	not up-regulated
+Gm48483	ENSMUSG00000111318	0	0	-1	0	down-regulated	Perp	-42.0	tested, not modulated	0/0/0/0	Tnfaip3	128.6	tested, not modulated	0/0/0/0	no	no	not up-regulated
+Gm49477	ENSMUSG00000116066	0	0	-1	-1	down-regulated	Hoxc4	-116.9	not expressed		Smug1	31.2	tested, not modulated	0/0/0/0	no	no	not up-regulated
+Gm49891	ENSMUSG00000117251	0	0	-1	0	down-regulated	Ifne	-159.0	not expressed		Mtap	97.9	tested, not modulated	0/0/0/0	no	no	not up-regulated
+Gm50321	ENSMUSG00000118383	0	0	0	-1	down-regulated	Asrgl1	-701.3	tested, not modulated	0/0/0/0	Scgb2a2	10.7	not expressed		no	no	not up-regulated
+Gm6416	ENSMUSG00000114792	0	0	-1	-1	down-regulated	Parp8	-104.5	tested, not modulated	0/0/0/0	Emb	78.5	tested, not modulated	0/0/0/0	no	no	not up-regulated

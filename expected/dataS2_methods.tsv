@@ -1,0 +1,9 @@
+field	value
+Dataset	NCBI SRA PRJNA1372455: RNA-seq of isolated cardiomyocytes at 1, 2, 4 and 7 days after TAC or sham surgery
+DE variant	limma-voom, TAC versus sham at each time point, on the GENCODE vM25 annotation (all biotypes)
+Significance	FDR < 0.05 and |log2FC| > 0.5 (Results columns, coded -1/0/+1)
+lincRNA set	40 lincRNAs modulated in at least one post-TAC time point, of which 15 up-regulated and 25 down-regulated
+Neighbours	bedtools closest v2.31.1 on GENCODE vM25: -D ref, -id / -iu, -io (overlaps excluded), -t first
+Selection rule	retained if up-regulated AND at least one flanking coding gene modulated; trajectory concordance recorded but not used for selection
+Result	7 candidate cis-regulatory lincRNAs, including Gm12092 (Chheaf)
+Reproducibility note	flanking genes are reported in one of three states. 'modulated': significant at one or more time points. 'tested, not modulated': expressed and tested, but not significant at any time point. 'not expressed': below the edgeR filterByExpr expression filter and therefore never tested, which is not the same as tested and found unchanged
