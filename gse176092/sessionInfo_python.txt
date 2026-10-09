@@ -1,0 +1,7 @@
+Python 3.9.23
+tangram 1.0.4
+scanpy 1.10.3
+anndata 0.10.9
+torch 2.8.0+cu128
+numpy 2.0.2
+pandas 2.3.3
