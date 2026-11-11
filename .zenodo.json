@@ -1,0 +1,46 @@
+{
+  "upload_type": "software",
+  "title": "Analysis code for Pagiatakis et al., The cardiac enhancer RNA Chheaf preserves heart function during stress
+ adaptation via Rtn4-dependent autophagy",
+  "description": "<p>Analysis code for Pagiatakis <em>et al.</em>, <em>The cardiac enhancer RNA Chheaf preserves heart
+function during stress adaptation via Rtn4-dependent autophagy</em>. One script per figure panel that rests on a comput
+ational analysis: differential expression and CPM matrices, lincRNA selection, synteny and coverage tracks, single-nucl
+eus and spatial transcriptomics of GSE176092, GSEA, and the tables of Data S1 and Data S2. Each script writes to <code>
+results/</code> and prints the numbers it produced, and <code>expected/</code> holds the same tables as obtained for th
+e paper, so a run can be diffed against the published values. Input paths are placeholders set in <code>00_config.R</co
+de> and <code>00_config.sh</code> or from the environment; two third-party inputs are fetched by the scripts in <code>d
+ata/</code> rather than redistributed.</p>",
+  "creators": [
+    {
+      "name": "Serio, Simone",
+      "affiliation": "IRCCS Humanitas Research Hospital, Rozzano (MI), Italy; Institute of Genetic and Biomedical Resea
+rch (IRGB), National Research Council of Italy, Milan Unit, Milan, Italy"
+    },
+    {
+      "name": "Marcone, Lorenzo",
+      "affiliation": "IRCCS Humanitas Research Hospital, Rozzano (MI), Italy; Department of Biomedical Sciences, Humani
+tas University, Pieve Emanuele (MI), Italy"
+    },
+    {
+      "name": "Condorelli, Gianluigi",
+      "affiliation": "IRCCS Humanitas Research Hospital, Rozzano (MI), Italy; Department of Biomedical Sciences, Humani
+tas University, Pieve Emanuele (MI), Italy"
+    }
+  ],
+  "license": "mit",
+  "access_right": "open",
+  "version": "v1.0.0",
+  "language": "eng",
+  "keywords": [
+    "lncRNA",
+    "enhancer RNA",
+    "cardiac hypertrophy",
+    "heart failure",
+    "RNA-seq",
+    "cardiomyocytes",
+    "Chheaf",
+    "Rtn4",
+    "autophagy",
+    "spatial transcriptomics"
+  ]
+}
